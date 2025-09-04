@@ -2,7 +2,9 @@
 
 Full Stack Devloper | Electronic Communication Engineer  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-[![Portfolio](https://img.shields.io/badge/Portfolio-E30084?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bala-profile.web.app/)                                                 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FBFF0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bala-profile.web.app/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balalatha660@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918072818585)
+
+                                              
 - 🧑‍💻 I’m currently learning a Full Stack Web devlopment and Hands on Exprience
 - Engineeing at [<img src="https://www.mookambigai.ac.in/img/logo.png" height="24">](https://www.mookambigai.ac.in/),
 - Social Presence
