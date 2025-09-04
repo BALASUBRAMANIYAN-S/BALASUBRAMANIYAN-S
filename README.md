@@ -5,10 +5,10 @@ Full Stack Devloper | Electronic Communication Engineer
 [![Portfolio](https://img.shields.io/badge/Portfolio-FBFF0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bala-profile.web.app/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balalatha660@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918072818585)
 
                                               
-- 🧑‍💻 I’m currently learning a Full Stack Web devlopment and Hands on Exprience
+- 🧑‍💻 I’m currently learning a Full Stack Web devlopment and Hands on Projects
 - Engineeing at [<img src="https://www.mookambigai.ac.in/img/logo.png" height="24">](https://www.mookambigai.ac.in/),
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bala-ece/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/i_m._.bala)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bala-ece/) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/i_m._.bala)
 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
@@ -24,4 +24,5 @@ Full Stack Devloper | Electronic Communication Engineer
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_13th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BALASUBRAMANIYAN-S&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BALASUBRAMANIYAN-S&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BALA's github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALASUBRAMANIYAN-S&bg_color=ffffff&color=000000&line=317f15&point=860909&area=true&hide_border=true)](https://github.com/BALASUBRAMANIYAN-S)
+
