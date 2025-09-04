@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Balasubramaniyan
 
-Electronic Communication Engineer | Full Stack Devloper 
+Full Stack Devloper | Electronic Communication Engineer  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 [![Portfolio](https://img.shields.io/badge/Portfolio-d62976?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bala-profile.web.app/)                                                 
+[![Portfolio](https://img.shields.io/badge/Portfolio-E30084?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bala-profile.web.app/)                                                 
 - 🧑‍💻 I’m currently learning a Full Stack Web devlopment and Hands on Exprience
 - Engineeing at [<img src="https://www.mookambigai.ac.in/img/logo.png" height="24">](https://www.mookambigai.ac.in/),
 - Social Presence
@@ -18,7 +18,7 @@ Electronic Communication Engineer | Full Stack Devloper
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Lenovo-000000?style=for-the-badge&logo=lenovo&logoColor=E2231A"/> <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Lenovo-000000?style=for-the-badge&logo=lenovo&logoColor=CC1D1D"/> <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_13th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BALASUBRAMANIYAN-S&theme=dark&show_icons=true&&hide=issues,contribs)
 
