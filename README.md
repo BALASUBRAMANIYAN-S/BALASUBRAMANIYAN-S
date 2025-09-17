@@ -1,14 +1,24 @@
 ## Hi there 👋 I'm Balasubramaniyan
 
-Full Stack Devloper | Electronic Communication Engineer  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-[![Portfolio](https://img.shields.io/badge/Portfolio-FBFF0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bala-profile.web.app/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balalatha660@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918072818585)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Developer;Frontend+Developer;Embedded+Engineer;Electronics+%26+Communication+Engineer" alt="Typing Animation" />
+
+
+</h1>
+
+## 🌐 Connect With Me  
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Connect GIF" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bala-profile.web.app/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balalatha660@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918072818585)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ece/)  
+
 
                                               
-- 🧑‍💻 I’m currently learning a Full Stack Web devlopment and Hands on Projects
-- Engineeing at [<img src="https://www.mookambigai.ac.in/img/logo.png" height="24">](https://www.mookambigai.ac.in/),
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bala-ece/) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/i_m._.bala)
+## 🚀 About Me  
+
+- 🧑‍💻 I’m currently learning **Full Stack Web Development** and working on **hands-on projects**  
+- 🎓 Engineering Student at [<img src="https://www.mookambigai.ac.in/img/logo.png" height="22" alt="MEC Logo">](https://www.mookambigai.ac.in/) **Mookambigai College of Engineering**  
+
 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
