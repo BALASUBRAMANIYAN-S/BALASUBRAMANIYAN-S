@@ -14,7 +14,7 @@
 
 
                                               
-## 🚀 About Me  
+🚀 About Me  
 
 - 🧑‍💻 I’m currently learning **Full Stack Web Development** and working on **hands-on projects**  
 - 🎓 Engineering Student at [<img src="https://www.mookambigai.ac.in/img/logo.png" height="22" alt="MEC Logo">](https://www.mookambigai.ac.in/) **Mookambigai College of Engineering**  
