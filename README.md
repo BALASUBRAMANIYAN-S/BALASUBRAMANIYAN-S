@@ -19,6 +19,10 @@
 - 🧑‍💻 I’m currently learning **Full Stack Web Development** and working on **hands-on projects**  
 - 🎓 Engineering Student at [<img src="https://www.mookambigai.ac.in/img/logo.png" height="22" alt="MEC Logo">](https://www.mookambigai.ac.in/) **Mookambigai College of Engineering**  
 
+ 
+
+
+
 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
@@ -32,7 +36,8 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Lenovo-000000?style=for-the-badge&logo=lenovo&logoColor=CC1D1D"/> <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_13th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BALASUBRAMANIYAN-S&theme=dark&show_icons=true&&hide=issues,contribs)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBRAMANIYAN-S&theme=github_dark&hide_border=false&layout=compact" />
 
 [![BALA's github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALASUBRAMANIYAN-S&bg_color=ffffff&color=000000&line=317f15&point=860909&area=true&hide_border=true)](https://github.com/BALASUBRAMANIYAN-S)
 
