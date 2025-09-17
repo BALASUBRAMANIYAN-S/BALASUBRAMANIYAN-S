@@ -30,14 +30,27 @@
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/office-365.png" alt="office-365"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img src="https://skillicons.dev/icons?i=vscode,vercel,postman,git,github,figma,npm,eclipse" />
 
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Lenovo-000000?style=for-the-badge&logo=lenovo&logoColor=CC1D1D"/> <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/Intel-Core_i5_13th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
+## 💻 Workspace Specs  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBRAMANIYAN-S&theme=github_dark&hide_border=false&layout=compact" />
+🖥️ **Laptop** : Lenovo  
+⚡ **OS** : Windows 11  
+🎮 **GPU** : NVIDIA RTX 3050  
+🚀 **CPU** : Intel Core i5 (13450HX)  
 
+<p align="">
+  <img src="https://img.shields.io/badge/Lenovo-000000?style=for-the-badge&logo=lenovo&logoColor=CC1D1D" height="30"/> 
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30"/>  
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="30"/> 
+  <img src="https://img.shields.io/badge/Intel-Core_i5_13th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="30"/>  
+</p>
+----
+
+📊 **Most Used Languages**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBRAMANIYAN-S&theme=github_dark&hide_border=false&layout=compact" />
+
+⚡ **Developer Activity Graph**  
 [![BALA's github activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALASUBRAMANIYAN-S&bg_color=ffffff&color=000000&line=317f15&point=860909&area=true&hide_border=true)](https://github.com/BALASUBRAMANIYAN-S)
 
