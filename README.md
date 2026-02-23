@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Balasubramaniyan
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Developer;Frontend+Developer;Embedded+Engineer;Electronics+%26+Communication+Engineer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Learner;Vue.js+Developer;Django+REST+Framework;IoT+%26+Embedded+Engineer" alt="Typing Animation" />
 </h1>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Connect GIF" />
