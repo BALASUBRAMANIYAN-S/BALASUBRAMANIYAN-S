@@ -24,7 +24,7 @@
 I am a **Full Stack Developer** and an **Electronics and Communication Engineering** graduate (2021–2025) from Mookambigai College of Engineering. I specialize in building scalable web applications, robust RESTful APIs, and seamless IoT integrations. 
 
 * **Recognition:** Honored with the **Best Technical Student Award** in the ECE department, reflecting my dedication to hardware-software integration and hands-on problem-solving.
-* **What I Build:** I design and deploy complex, full-scale platforms—ranging from comprehensive IT asset management systems to dynamic hotel booking engines and smart hardware monitors. 
+* **What I Build:** I build scalable full-stack applications, AI-powered solutions, automation systems, and practical engineering projects that solve real-world problems. 
 * **Design Philosophy:** I prioritize clean architecture and minimalist, highly functional user interfaces that deliver a professional, accessible user experience.
 
 ### Technical Expertise
@@ -55,8 +55,6 @@ I am a **Full Stack Developer** and an **Electronics and Communication Engineeri
   </a>
 
 </div>
-
----
 
 ## Workspace Specs
 
@@ -94,7 +92,6 @@ I am a **Full Stack Developer** and an **Electronics and Communication Engineeri
     </td>
   </tr>
 </table>
----
 
 ## GitHub Analytics
 
