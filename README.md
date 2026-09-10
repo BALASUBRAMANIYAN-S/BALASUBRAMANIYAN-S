@@ -7,7 +7,7 @@
   align="right"
   width="370"
   height="290"
-  src="https://balasubramaniyan-s.github.io/portfolio-assets/Make_a_Typing_Effetct_is_suita-ezgif.com-video-to-gif-converter.gif"
+  src="typing.gif"
   alt="Typing Effect"
 />
 
