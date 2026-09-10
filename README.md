@@ -3,7 +3,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Vue.js+Developer;Django+REST+Framework;IoT+%26+Embedded+Engineer" alt="Typing Animation" />
 </h1>
-<img align="right" width="370" height="290" src="https://balasubramaniyan-s.github.io/portfolio-assets/typing-effect.gif" alt="Typing Effect" />
+<img align="right" width="370" height="290" src="https://balasubramaniyan-s.github.io/portfolio-assets/Make_a_Typing_Effetct_is_suita-ezgif.com-video-to-gif-converter.gif" alt="Typing Effect" />
 
 🌐 Connect With Me  
 
