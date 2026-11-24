@@ -13,7 +13,7 @@
         <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00C896,100:0D1117&height=80&section=footer&text=&fontSize=0" width="100%" alt="Footer Wave" />
       </td>
       <td align="center" width="60%">
-        <img width="350" src="https://res.cloudinary.com/dbd6cqrjf/image/upload/v1789042261/type_tqlwud.gif" alt="Typing Effect" />
+        <img width="350" src="https://res.cloudinary.com/dbd6cqrjf/video/upload/v1795496455/vi-compress-video-to-size_b3kkvh.mp4" alt="Typing Effect" />
       </td>
     </tr>
   </table>
