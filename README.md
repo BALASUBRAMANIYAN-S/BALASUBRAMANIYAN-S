@@ -1,12 +1,22 @@
 <div align="center">
   <h1>Hi there, I'm Balasubramaniyan</h1>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C896,100:00E5FF&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="Header Wave" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%94%A5+MERN+Stack+Developer;%F0%9F%92%9A+Vue.js+Developer;%E2%9A%A1+Django+REST+Framework;%F0%9F%94%A7+IoT+%26+Embedded+Engineer" alt="Typing SVG" />
-  </a>
-  <br>
-  <img src="https://res.cloudinary.com/dbd6cqrjf/image/upload/w_500,fl_lossy,q_auto:low/v1795496835/vi_b1xov7.gif" width="350" alt="Typing Effect">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00C896,100:0D1117&height=80&section=footer&text=&fontSize=0" width="100%" alt="Footer Wave" />
+  <table align="center" border="0" style="border: none; background: transparent;">
+    <tr>
+      <td align="center" width="60%">
+        <!-- Gradient Wave Header -->
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C896,100:00E5FF&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="Header Wave" />
+        <!-- Typing Animation -->
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%94%A5+MERN+Stack+Developer;%F0%9F%92%9A+Vue.js+Developer;%E2%9A%A1+Django+REST+Framework;%F0%9F%94%A7+IoT+%26+Embedded+Engineer" alt="Typing SVG" />
+        </a>
+        <!-- Footer Wave -->
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00C896,100:0D1117&height=80&section=footer&text=&fontSize=0" width="100%" alt="Footer Wave" />
+      </td>
+      <td align="center" width="60%">
+        <img src="https://res.cloudinary.com/dbd6cqrjf/image/upload/w_500,fl_lossy,q_auto:low/v1795496835/vi_b1xov7.gif" width="350" alt="Typing Effect">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## About Me
